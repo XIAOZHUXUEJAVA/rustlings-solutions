@@ -1,5 +1,3 @@
-# Please visit the following website for answer explanation
-`https://xxxdgblog.netlify.app/tags/rust`
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
